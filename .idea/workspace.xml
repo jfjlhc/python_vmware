@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f7daf51-c263-4805-8a41-79f659d9c7ef" name="Default" comment="10.31" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/jfj_pycode$Resister_Vmfs__1_.coverage" NAME="Resister_Vmfs (1) Coverage Results" MODIFIED="1517558672531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/register_vm" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$vc_si.coverage" NAME="vc_si Coverage Results" MODIFIED="1512021154626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$vcrandom.coverage" NAME="vcrandom Coverage Results" MODIFIED="1510571449563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vcenter_class/kkx" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$unregister.coverage" NAME="unregister Coverage Results" MODIFIED="1511924953947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host/register" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$re_2.coverage" NAME="re_2 Coverage Results" MODIFIED="1511782574815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_code" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$paramiko.coverage" NAME="paramiko Coverage Results" MODIFIED="1509618425479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/linux_Code" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$force_poweroff.coverage" NAME="force_poweroff Coverage Results" MODIFIED="1510737661381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/delete_vm" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$two.coverage" NAME="two Coverage Results" MODIFIED="1516869454786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi _work" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$single_ip_mac.coverage" NAME="single_ip_mac Coverage Results" MODIFIED="1527753358773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi _work" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$host_assign_copy.coverage" NAME="host_assign_copy Coverage Results" MODIFIED="1511950155138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$Unicode.coverage" NAME="Unicode Coverage Results" MODIFIED="1509772889232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_code" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$esxihost_diconnect.coverage" NAME="esxihost_diconnect Coverage Results" MODIFIED="1532308426688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/host" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$network_label.coverage" NAME="network_label Coverage Results" MODIFIED="1526284273713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi _work" />
+    <SUITE FILE_PATH="coverage/pymoon$jun.coverage" NAME="jun Coverage Results" MODIFIED="1533105598963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$ctime_thread.coverage" NAME="ctime_thread Coverage Results" MODIFIED="1509772920448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_code" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$template_copy_template.coverage" NAME="template_copy_template Coverage Results" MODIFIED="1509969544423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$ssh_connect.coverage" NAME="ssh_connect Coverage Results" MODIFIED="1510894620667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/linux_Code" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$off.coverage" NAME="off Coverage Results" MODIFIED="1531737521546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi _work" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$host_off.coverage" NAME="host_off Coverage Results" MODIFIED="1511924753069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$scp_conn_cp.coverage" NAME="scp_conn_cp Coverage Results" MODIFIED="1511172617511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/linux_Code" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$scp_host.coverage" NAME="scp_host Coverage Results" MODIFIED="1511146427546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/linux_Code" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$host_off__1_.coverage" NAME="host_off (1) Coverage Results" MODIFIED="1511925061640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$esxihost_reboot.coverage" NAME="esxihost_reboot Coverage Results" MODIFIED="1512021232010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$create_snap.coverage" NAME="create_snap Coverage Results" MODIFIED="1522823143167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/vm_Snapshot" />
+    <SUITE FILE_PATH="coverage/jfj_python_esxi$queque.coverage" NAME="queque Coverage Results" MODIFIED="1509452083269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_code" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$san.coverage" NAME="san Coverage Results" MODIFIED="1519978449000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scan" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$obj.coverage" NAME="obj Coverage Results" MODIFIED="1525332396029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vcenter_class" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$code2.coverage" NAME="code2 Coverage Results" MODIFIED="1513756013795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi _work" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$c_readline.coverage" NAME="c_readline Coverage Results" MODIFIED="1509771352012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_code" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$vm_host_off__2_.coverage" NAME="vm_host_off (2) Coverage Results" MODIFIED="1512733457303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host/hosts" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$vcenter_UnregisterVM.coverage" NAME="vcenter_UnregisterVM Coverage Results" MODIFIED="1528946904236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi _work" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$jfj_register_template.coverage" NAME="jfj_register_template Coverage Results" MODIFIED="1524731320456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/register_vm" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$answer.coverage" NAME="answer Coverage Results" MODIFIED="1531366857418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/answer_vm" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$vm_clone_si.coverage" NAME="vm_clone_si Coverage Results" MODIFIED="1509682109692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/clone_vm" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$host_vm_rename.coverage" NAME="host_vm_rename Coverage Results" MODIFIED="1511950302656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/rename" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$delete_resource.coverage" NAME="delete_resource Coverage Results" MODIFIED="1510555443686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/delete_vm" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$vc_delete.coverage" NAME="vc_delete Coverage Results" MODIFIED="1525938438996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi _work" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$get_mac.coverage" NAME="get_mac Coverage Results" MODIFIED="1521707389569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi _work" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$linux_ls.coverage" NAME="linux_ls Coverage Results" MODIFIED="1509698317446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/linux_Code" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$host_pool_del.coverage" NAME="host_pool_del Coverage Results" MODIFIED="1510737766594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/delete_vm" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$regular_.coverage" NAME="regular_ Coverage Results" MODIFIED="1509699121694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_code" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$get_ip_info.coverage" NAME="get_ip_info Coverage Results" MODIFIED="1522656925859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi _work" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$esxiip.coverage" NAME="esxiip Coverage Results" MODIFIED="1517560751459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi _work" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$host_assign_on.coverage" NAME="host_assign_on Coverage Results" MODIFIED="1509965447706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$re_1.coverage" NAME="re_1 Coverage Results" MODIFIED="1509706350428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_code" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$mainfunc.coverage" NAME="mainfunc Coverage Results" MODIFIED="1510665062088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vcenter_class" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$host_pool_renmae.coverage" NAME="host_pool_renmae Coverage Results" MODIFIED="1510211767359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/rename" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$vm_order.coverage" NAME="vm_order Coverage Results" MODIFIED="1509950983429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/vm_order" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$jfjregister.coverage" NAME="jfjregister Coverage Results" MODIFIED="1528947651382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/register_vm" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$print_vm.coverage" NAME="print_vm Coverage Results" MODIFIED="1531225213641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi _work" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$host_copy_vm.coverage" NAME="host_copy_vm Coverage Results" MODIFIED="1510156559546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$scan_vm_host.coverage" NAME="scan_vm_host Coverage Results" MODIFIED="1517559756241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi _work" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$for_ls.coverage" NAME="for_ls Coverage Results" MODIFIED="1509696409525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/linux_Code" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$template_to_hostname.coverage" NAME="template_to_hostname Coverage Results" MODIFIED="1509964543510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$file_in_out.coverage" NAME="file_in_out Coverage Results" MODIFIED="1509776528624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/linux_Code" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$jvm_rename.coverage" NAME="jvm_rename Coverage Results" MODIFIED="1509971329301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/rename" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$vcenter.coverage" NAME="vcenter Coverage Results" MODIFIED="1524724806030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi _work" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$host_user_order.coverage" NAME="host_user_order Coverage Results" MODIFIED="1530178298664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vm_order" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$esxi_conndata.coverage" NAME="esxi_conndata Coverage Results" MODIFIED="1513591951803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi _work" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$oof.coverage" NAME="oof Coverage Results" MODIFIED="1513755762534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi _work" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$host_pool_copy.coverage" NAME="host_pool_copy Coverage Results" MODIFIED="1511871784428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$Resister_Vmfs.coverage" NAME="Resister_Vmfs Coverage Results" MODIFIED="1529978471133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/register_vm" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$esxi_edit_ip.coverage" NAME="esxi_edit_ip Coverage Results" MODIFIED="1517560812739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi _work" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$host_order.coverage" NAME="host_order Coverage Results" MODIFIED="1509952471581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/vm_order" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$variables.coverage" NAME="variables Coverage Results" MODIFIED="1510720897121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vcenter_class/kkx" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$vm_host_on.coverage" NAME="vm_host_on Coverage Results" MODIFIED="1512962686692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host/hosts" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$ssh_code.coverage" NAME="ssh_code Coverage Results" MODIFIED="1509698236322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/linux_Code" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$host_assign_off.coverage" NAME="host_assign_off Coverage Results" MODIFIED="1509962329087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host_vm_print" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$jun.coverage" NAME="jun Coverage Results" MODIFIED="1527818964734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$vm_hostpool_off.coverage" NAME="vm_hostpool_off Coverage Results" MODIFIED="1510728605995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$chengfaregu.coverage" NAME="chengfaregu Coverage Results" MODIFIED="1511407214318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/python3" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$vm_clone_view.coverage" NAME="vm_clone_view Coverage Results" MODIFIED="1511757380665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/clone_vm" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$Transit.coverage" NAME="Transit Coverage Results" MODIFIED="1510564325733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vcenter_class" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$host_off__2_.coverage" NAME="host_off (2) Coverage Results" MODIFIED="1511937200944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host/register" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$IPsearch_for_vm.coverage" NAME="IPsearch_for_vm Coverage Results" MODIFIED="1510127943996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$diconnect_esxi.coverage" NAME="diconnect_esxi Coverage Results" MODIFIED="1510556392255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$vm_host_off.coverage" NAME="vm_host_off Coverage Results" MODIFIED="1512021412848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host/copy" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$delete_connectionState.coverage" NAME="delete_connectionState Coverage Results" MODIFIED="1512028127824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host/hosts" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$esxi_ip.coverage" NAME="esxi_ip Coverage Results" MODIFIED="1513808138240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi _work" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$esxihost_connect.coverage" NAME="esxihost_connect Coverage Results" MODIFIED="1532308437844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/host" />
+    <SUITE FILE_PATH="coverage/pymoon$get_mac.coverage" NAME="get_mac Coverage Results" MODIFIED="1533092972565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi _work" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$getsi.coverage" NAME="getsi Coverage Results" MODIFIED="1511950168889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$Traverse_the_template.coverage" NAME="Traverse the template Coverage Results" MODIFIED="1531737661907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/host" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$mac.coverage" NAME="mac Coverage Results" MODIFIED="1516910714793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi _work" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$get_ipinfo.coverage" NAME="get_ipinfo Coverage Results" MODIFIED="1510141712170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$vm_hostvm_query.coverage" NAME="vm_hostvm_query Coverage Results" MODIFIED="1510156611271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$jfjoff.coverage" NAME="jfjoff Coverage Results" MODIFIED="1511949559206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$on.coverage" NAME="on Coverage Results" MODIFIED="1531705963306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi _work" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$datastore_refresh.coverage" NAME="datastore_refresh Coverage Results" MODIFIED="1531470238051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/host" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$unresg.coverage" NAME="unresg Coverage Results" MODIFIED="1522634281959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi _work" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$connect_esxi.coverage" NAME="connect_esxi Coverage Results" MODIFIED="1510556404956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$dic_3.coverage" NAME="dic_3 Coverage Results" MODIFIED="1510730866829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_code" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$vm_host_off__1_.coverage" NAME="vm_host_off (1) Coverage Results" MODIFIED="1511953933090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/hosts" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$Resister_Vmfs_main.coverage" NAME="Resister_Vmfs_main Coverage Results" MODIFIED="1532938069508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/register_vm" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$datacenter_traverse.coverage" NAME="datacenter_traverse Coverage Results" MODIFIED="1510124881101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host" />
+    <SUITE FILE_PATH="coverage/jfj_pycode$from_template_copy.coverage" NAME="from_template_copy Coverage Results" MODIFIED="1509968993599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="461572179">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="15" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jun.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>re</find>
+      <find>deepcopy</find>
+      <find>has</find>
+      <find>name</find>
+      <find>ends</find>
+      <find>%</find>
+      <find>findpath</find>
+      <find>s</find>
+      <find>decode</find>
+      <find>connect</find>
+      <find>title: not found</find>
+      <find>_enable_auto_restart</find>
+      <find>get</find>
+      <find>startOrder</find>
+      <find>cs69_MS_data_process_1.1.1.22</find>
+      <find>cs69_MS_userweb_svr_1.1.1.36</find>
+      <find>cs69_DM_deploy_vmwareagent_1.1.1.28</find>
+      <find>ub14_DM_alarmpot_dockerhost_1.1.1.24%2f192.168.75.24</find>
+      <find>cs69_DC_data_collect_1.1.1.20%2f192.168.75.20</find>
+      <find>cs69_MS_userweb_svr_1.1.1.26%2f192.168.75.26%2f192.168.75.2</find>
+      <find>vCenter-1.1.1.150%2f192.168.75.150</find>
+      <find>ntp_1.1.1.101</find>
+      <find>cs69_SF_share_dir_svr_1.1.1.25</find>
+      <find>cs7_gateway_1.1.1.30%2f192.168.75.30%2f192.168.77.1</find>
+      <find>ros_1.1.1.157%2f192.168.75.157%2f192.168.134.67</find>
+      <find>cs69_DM_deploy_svr_1.1.1.21%2f192.168.75.21</find>
+      <find>ub14_flowdump_1.1.1.31</find>
+      <find>connected</find>
+      <find>_obj</find>
+      <find>print</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>192.168.117.1</replace>
+      <replace>e.msg</replace>
+      <replace>%</replace>
+      <replace>%2f</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="PRESERVE_MERGES" value="true" />
+    <option name="ONTO" value="refs/heads/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/esxi5.5/host/hosts/vm_host_on.py" />
+        <option value="$PROJECT_DIR$/esxi _work/jfj_register_template.py" />
+        <option value="$PROJECT_DIR$/esxi _work/oof.py" />
+        <option value="$PROJECT_DIR$/esxi _work/code2.py" />
+        <option value="$PROJECT_DIR$/esxi _work/esxi_ip.py" />
+        <option value="$PROJECT_DIR$/esxi5.5/host/hosts/esxihost_reboot.py" />
+        <option value="$PROJECT_DIR$/esxi _work/two.py" />
+        <option value="$PROJECT_DIR$/esxi _work/mac.py" />
+        <option value="$PROJECT_DIR$/esxi _work/Resister_Vmfs.py" />
+        <option value="$PROJECT_DIR$/esxi _work/jfjregister.py" />
+        <option value="$PROJECT_DIR$/esxi5.5/host/hosts/get_ip_info.py" />
+        <option value="$PROJECT_DIR$/esxi _work/register_vm/Resister_Vmfs.py" />
+        <option value="$PROJECT_DIR$/esxi _work/esxi_conndata.py" />
+        <option value="$PROJECT_DIR$/esxi _work/esxiip.py" />
+        <option value="$PROJECT_DIR$/register_vm/answer.py" />
+        <option value="$PROJECT_DIR$/esxi _work/esxi_edit_ip.py" />
+        <option value="$PROJECT_DIR$/esxi5.5/single_ip_mac.py" />
+        <option value="$PROJECT_DIR$/scan/san.py" />
+        <option value="$PROJECT_DIR$/esxi _work/scan_vm_host.py" />
+        <option value="$PROJECT_DIR$/esxi5.5/vm_order/host_user_order.py" />
+        <option value="$PROJECT_DIR$/esxi _work/unresg.py" />
+        <option value="$PROJECT_DIR$/esxi _work/get_ip_info.py" />
+        <option value="$PROJECT_DIR$/esxi5.5/vm_Snapshot/create_snap.py" />
+        <option value="$PROJECT_DIR$/esxi5.5/vm_Snapshot/drop_snapshop.py" />
+        <option value="$PROJECT_DIR$/esxi5.5/host/register/unregister.py" />
+        <option value="$PROJECT_DIR$/esxi _work/vcenter.py" />
+        <option value="$PROJECT_DIR$/vcenter_class/obj.py" />
+        <option value="$PROJECT_DIR$/vcenter_class/kkx/variables.py" />
+        <option value="$PROJECT_DIR$/esxi5.5/host/hosts/esxihost_diconnect.py" />
+        <option value="$PROJECT_DIR$/esxi _work/vc_delete.py" />
+        <option value="$PROJECT_DIR$/esxi _work/network_label.py" />
+        <option value="$PROJECT_DIR$/clone_vm/ok.py" />
+        <option value="$PROJECT_DIR$/esxi _work/single_ip_mac.py" />
+        <option value="$PROJECT_DIR$/register_vm/unresister.py" />
+        <option value="$PROJECT_DIR$/esxi _work/vcenter_UnregisterVM.py" />
+        <option value="$PROJECT_DIR$/register_vm/Resister_Vmfs.py" />
+        <option value="$PROJECT_DIR$/vm_order/host_user_order.py" />
+        <option value="$PROJECT_DIR$/esxi _work/print_vm.py" />
+        <option value="$PROJECT_DIR$/answer_vm/answer.py" />
+        <option value="$PROJECT_DIR$/host/datastore_refresh.py" />
+        <option value="$PROJECT_DIR$/esxi _work/on.py" />
+        <option value="$PROJECT_DIR$/register_vm/esxi_conndata.py" />
+        <option value="$PROJECT_DIR$/register_vm/jfjregister.py" />
+        <option value="$PROJECT_DIR$/register_vm/jfj_register_template.py" />
+        <option value="$PROJECT_DIR$/esxi _work/off.py" />
+        <option value="$PROJECT_DIR$/host/Traverse the template.py" />
+        <option value="$PROJECT_DIR$/host/esxihost_diconnect.py" />
+        <option value="$PROJECT_DIR$/host/esxihost_connect.py" />
+        <option value="$PROJECT_DIR$/register_vm/Resister_Vmfs_main.py" />
+        <option value="$PROJECT_DIR$/esxi _work/get_mac.py" />
+        <option value="$PROJECT_DIR$/jun.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="642" />
+    <option name="y" value="24" />
+    <option name="width" value="1088" />
+    <option name="height" value="544" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pymoon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pymoon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pymoon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pymoon" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowDebug.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/esxi _work" />
+      <recent name="$PROJECT_DIR$/register_vm" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/esxi _work/register_vm" />
+      <recent name="$PROJECT_DIR$/esxi5.5/host/copy" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.jun">
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="jfj_python_esxi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="jfj_python_esxi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="jfj_python_esxi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <module name="linux_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="linux_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <module name="linux_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Resister_Vmfs_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="jfj_pycode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/register_vm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/register_vm/Resister_Vmfs_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+      <module name="linux_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/esxi5.5/host" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/esxi5.5/host/vm_hostpool_off.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="linux_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="esxihost_connect" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="jfj_pycode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/host" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/host/esxihost_connect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="esxihost_diconnect" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="jfj_pycode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/host" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/host/esxihost_diconnect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_mac" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="jfj_pycode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/esxi _work" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/esxi _work/get_mac.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jun" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="jfj_pycode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jun.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="linux_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="linux_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="linux_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="linux_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="linux_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.Resister_Vmfs_main" />
+      <item itemvalue="Python.esxihost_diconnect" />
+      <item itemvalue="Python.esxihost_connect" />
+      <item itemvalue="Python.jun" />
+      <item itemvalue="Python.get_mac" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.jun" />
+        <item itemvalue="Python.get_mac" />
+        <item itemvalue="Python.Resister_Vmfs_main" />
+        <item itemvalue="Python.esxihost_connect" />
+        <item itemvalue="Python.esxihost_diconnect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f7daf51-c263-4805-8a41-79f659d9c7ef" name="Default" comment="" />
+      <created>1509443157728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509443157728</updated>
+    </task>
+    <task id="LOCAL-00001" summary="10.31">
+      <created>1509452246275</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1509452246275</updated>
+    </task>
+    <task id="LOCAL-00002" summary="10.31">
+      <created>1509516970150</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1509516970150</updated>
+    </task>
+    <task id="LOCAL-00003" summary="10.31">
+      <created>1509517078546</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1509517078546</updated>
+    </task>
+    <task id="LOCAL-00004" summary="10.31">
+      <created>1509517933994</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1509517933994</updated>
+    </task>
+    <task id="LOCAL-00005" summary="10.31">
+      <created>1509517996069</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1509517996069</updated>
+    </task>
+    <task id="LOCAL-00006" summary="10.31">
+      <created>1509525708056</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1509525708056</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22334754" />
+      <window_info id="Structure" order="1" weight="0.24958494" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.47315994" visible="true" weight="0.17028199" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5268401" side_tool="true" weight="0.38166046" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.52462643" side_tool="true" weight="0.1771995" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32961586" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4980631" weight="0.32961586" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Data View" order="4" />
+      <window_info anchor="right" id="SciView" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="10.31" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.31" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/esxi5.5/delete_vm/delete_resource.py" />
+    <entry file="file://$PROJECT_DIR$/esxi5.5/delete_vm/host_delete_vm.py" />
+    <entry file="file://$PROJECT_DIR$/esxi _work/cpu_status.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esxi5.5/host/register/unregister.py" />
+    <entry file="file://$PROJECT_DIR$/esxi5.5/host/register/host_off.py" />
+    <entry file="file://$PROJECT_DIR$/esxi _work/esxi_ip_edit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="46" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esxi5.5/host/hosts/host_assign_on.py" />
+    <entry file="file://$PROJECT_DIR$/vcenter_class/poolname_copy.py" />
+    <entry file="file://$PROJECT_DIR$/esxi5.5/host/hosts/traverse_vimnet.py" />
+    <entry file="file://$PROJECT_DIR$/scan/san.py" />
+    <entry file="file://$PROJECT_DIR$/esxi _work/get_ip_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-146">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vcenter_class/vm_clone_view.py" />
+    <entry file="file://$USER_HOME$/python3/chengfaregu.py" />
+    <entry file="file://$PROJECT_DIR$/more_thread/hypot_threadpool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2033" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vc_si.py" />
+    <entry file="file://$PROJECT_DIR$/esxi5.5/host/hosts/delete_unon_vm.py" />
+    <entry file="file://$PROJECT_DIR$/esxi5.5/host/hosts/esxihost_connect.py" />
+    <entry file="file://$PROJECT_DIR$/esxi5.5/host/hosts/host_pool_copy.py" />
+    <entry file="file://$PROJECT_DIR$/esxi5.5/host/hosts/esxihost_diconnect.py" />
+    <entry file="file://$PROJECT_DIR$/esxi _work/vc_delete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esxi5.5/clone_vm/copy_in_thread.py" />
+    <entry file="file://$PROJECT_DIR$/esxi _work/network_label.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clone_vm/copy_in_thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clone_vm/ok.py" />
+    <entry file="file://$PROJECT_DIR$/vcenter_class/mainfunc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="299" column="29" lean-forward="true" selection-start-line="299" selection-start-column="29" selection-end-line="299" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vcenter_class/kkx/variables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1717">
+          <caret line="101" column="21" selection-start-line="101" selection-start-column="21" selection-end-line="101" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vcenter_class/obj.py" />
+    <entry file="file://$PROJECT_DIR$/vcenter_class/Transit.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esxi _work/single_ip_mac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vm_Snapshot/create_snap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1693" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/host/hosts/host_copy_vm.py" />
+    <entry file="file://$PROJECT_DIR$/clone_vm/vm_clone_view.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register_vm/answer.py" />
+    <entry file="file://$PROJECT_DIR$/esxi _work/vcenter_UnregisterVM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="38" column="35" lean-forward="true" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esxi _work/unresister.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register_vm/Resister_Vmfs.py" />
+    <entry file="file://$PROJECT_DIR$/vm_order/host_user_order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1625">
+          <caret line="365" lean-forward="true" selection-start-line="365" selection-end-line="365" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esxi _work/print_vm.py" />
+    <entry file="file://$PROJECT_DIR$/answer_vm/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="104" column="36" selection-start-line="104" selection-start-column="13" selection-end-line="104" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/host/datastore_refresh.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register_vm/esxi_conndata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register_vm/jfjregister.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register_vm/jfj_register_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/host/esxihost_diconnect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/host/esxihost_connect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register_vm/Resister_Vmfs_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-494">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/host/Traverse the template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="52" column="44" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esxi _work/get_mac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#14#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esxi _work/on.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#15#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esxi _work/off.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
