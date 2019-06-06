@@ -2,104 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f7daf51-c263-4805-8a41-79f659d9c7ef" name="Default" comment="10.31">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clone_vm/Traversal_resourse.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clone_vm/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clone_vm/copy_in_thread.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clone_vm/formpool_copy_vm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clone_vm/pool_name.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clone_vm/template_copy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clone_vm/vc_esxi_datas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clone_vm/vm_clone_view.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/create_pool/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/create_pool/create_pool.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delete_vm/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delete_vm/host_delete_vm.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/host_delete_vm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/delete_vm/host_pool_del.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete/host_pool_del.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esxi _work/answer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/esxi _work/cpu_status.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/esxi _work/create_snap.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/esxi _work/datastore_refresh.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/esxi _work/delete_resource.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/esxi _work/drop_snapshop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/esxi _work/esxi_ip_edit.py" beforeDir="false" afterPath="$PROJECT_DIR$/host/esxi_ip_edit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esxi _work/esxihost_connect.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/esxi _work/esxihost_diconnect.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/esxi _work/esxihost_reboot.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/esxi _work/esxihost_shutdown.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/esxi _work/get_ip_info.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/esxi _work/get_mac.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/esxi _work/network_label.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/esxi _work/off.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/esxi _work/on.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/esxi _work/single_ip_mac.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/esxi _work/unresister.py" beforeDir="false" afterPath="$PROJECT_DIR$/vm_answer/vm_ALL_unresister.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esxi _work/vc_delete.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/esxi _work/vcenter_UnregisterVM.py" beforeDir="false" afterPath="$PROJECT_DIR$/vm_answer/vcenter_UnregisterVM.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esxi _work/vm_cpu_judge.py" beforeDir="false" afterPath="$PROJECT_DIR$/host/vm_cpu_judge.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/host/IPsearch_for_vm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/host/Traverse the template.py" beforeDir="false" afterPath="$PROJECT_DIR$/copy_vm/from_template_copy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/host/esxihost_reboot.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/host/from_template_copy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/host/host_assign_copy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/host/host_assign_off.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/host/host_assign_on.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/host/host_copy_vm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/host/host_pool_copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/copy_vm/host_pool_copy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/host/print_datacenter.py" beforeDir="false" afterPath="$PROJECT_DIR$/host/print_datacenter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/host/resource_pool_query.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/host/template_copy_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/copy_vm/template_copy_template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/host/template_to_hostname.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/host/template_to_vm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/host/traverse_vimnet.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/host/vm_host_off.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/host/vm_host_on.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/host/vm_hostpool_off.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/host/vm_hostpool_on.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/host/vm_hostvm_query.py" beforeDir="false" afterPath="$PROJECT_DIR$/host/vm_hostvm_query.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/host/vm_to_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/host/vm_to_template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jun.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/more_thread/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/more_thread/hypot_threadpool.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/more_thread/main.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/register_vm/Resister_Vmfs_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/register_vm/Resister_Vmfs_main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/register_vm/jfjregister.py" beforeDir="false" afterPath="$PROJECT_DIR$/register_vm/jfjregister.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rename/host_pool_rename.py" beforeDir="false" afterPath="$PROJECT_DIR$/host/host_pool_rename.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/vcenter_task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_code/Dynamic_variable_name.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_code/Unicode.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_code/__str.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_code/c_readline.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_code/class_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_code/config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_code/ctime_thread.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_code/dic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_code/dic_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_code/get_system_time.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_code/github1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_code/hex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_code/join_format.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_code/list_tuple_dic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_code/re_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_code/re_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_code/set_time.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_code/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_code/sorted.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_code/sorted2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_code/sorted3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_code/xrange.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vcenter_class/Transit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vcenter_class/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vcenter_class/kkx/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vcenter_class/kkx/variables.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vcenter_class/kkx/vcrandom.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vcenter_class/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vcenter_class/mainfunc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vm_order/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vm_order/host_user_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/register_vm/host_vm_order.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -271,13 +175,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="15" />
-          <entry key="py" value="5351" />
+          <entry key="py" value="5355" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="15" />
-          <entry key="Python" value="5351" />
+          <entry key="Python" value="5355" />
         </counts>
       </usages-collector>
     </session>
@@ -332,8 +236,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/register_vm/Resister_Vmfs_main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="60" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="60" />
+            <state relative-caret-position="184">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
               <folding>
                 <element signature="e#14#23#0" expanded="true" />
               </folding>
@@ -452,10 +356,10 @@
         <option value="$PROJECT_DIR$/vm_answer/answer.py" />
         <option value="$PROJECT_DIR$/on_off/pool_off.py" />
         <option value="$PROJECT_DIR$/vm_answer/vm_ALL_unresister.py" />
-        <option value="$PROJECT_DIR$/register_vm/Resister_Vmfs_main.py" />
         <option value="$PROJECT_DIR$/on_off/off.py" />
         <option value="$PROJECT_DIR$/on_off/on.py" />
         <option value="$PROJECT_DIR$/py_ros/pytwo.py" />
+        <option value="$PROJECT_DIR$/register_vm/Resister_Vmfs_main.py" />
       </list>
     </option>
   </component>
@@ -465,9 +369,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="331" />
-    <option name="y" value="-17" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="685" />
+    <option name="y" value="174" />
     <option name="width" value="1678" />
     <option name="height" value="1010" />
   </component>
@@ -486,26 +390,6 @@
             <path>
               <item name="pymoon" type="b2602c69:ProjectViewProjectNode" />
               <item name="pymoon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pymoon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pymoon" type="462c0819:PsiDirectoryNode" />
-              <item name="host" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pymoon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pymoon" type="462c0819:PsiDirectoryNode" />
-              <item name="py_ros" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pymoon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pymoon" type="462c0819:PsiDirectoryNode" />
-              <item name="register_vm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pymoon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pymoon" type="462c0819:PsiDirectoryNode" />
-              <item name="vm_answer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -977,15 +861,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="685" y="174" width="1678" height="1010" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49944136" visible="true" weight="0.20628998" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49944136" visible="true" weight="0.23918417" />
       <window_info id="Structure" order="1" weight="0.24958494" />
       <window_info id="Favorites" order="2" sideWeight="0.5005587" side_tool="true" weight="0.19171597" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49938196" weight="0.32951945" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.5229211" visible="true" weight="0.2570499" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5229211" visible="true" weight="0.27054796" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.47707888" side_tool="true" weight="0.2570499" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1293,8 +1177,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/register_vm/Resister_Vmfs_main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="60" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="60" />
+        <state relative-caret-position="184">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
           <folding>
             <element signature="e#14#23#0" expanded="true" />
           </folding>
