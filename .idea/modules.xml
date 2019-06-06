@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/jfj_pycode.iml" filepath="$PROJECT_DIR$/.idea/jfj_pycode.iml" />
-      <module fileurl="file://$USER_HOME$/linux_Code/.idea/linux_Code.iml" filepath="$USER_HOME$/linux_Code/.idea/linux_Code.iml" />
-      <module fileurl="file://$USER_HOME$/python3/.idea/python3.iml" filepath="$USER_HOME$/python3/.idea/python3.iml" />
     </modules>
   </component>
 </project>

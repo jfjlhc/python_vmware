@@ -1,9 +1,6 @@
-#coding=utf-8
 from pyVmomi import vim
-import sys,atexit
-import ssl
-from pyVim.connect import SmartConnect, Disconnect
-
+import sys,time
+import vc_si as jvm
 
 def set_vc_si(host,user,port,password,context):
     try:
@@ -22,9 +19,9 @@ def set_vc_si(host,user,port,password,context):
 
 
 def get_vc_si():
-    host = "192.168.134.231"
-    user = "jfj"
-    password = "pass2017!@#$"
+    host = "192.168.134.99"
+    user = "root"
+    password = "JcatPass0197"
     port = 443
     if host:
         context = ssl.create_default_context()
@@ -39,24 +36,19 @@ def get_vc_si():
     atexit.register(Disconnect, si)
     return si
 
-
-
-
 def main():
     si = get_vc_si()
     content = si.RetrieveServiceContent()
     objView = content.viewManager.CreateContainerView(content.rootFolder,
-                                                      [vim.Datastore],
+                                                      [vim.ComputeResource],
                                                       True)
     vmList = objView.view
     objView.Destroy()
-    obj = None
-    for data in vmList:
-        if data.name == "data227":
-            data.RefreshDatastoreStorageInfo
 
 
-
+    for i in vmList:
+        if i.name == "192.168.134.21":
+            i.host[0].ShutdownHost_Task(force=True)
 
 
 if __name__ == "__main__":

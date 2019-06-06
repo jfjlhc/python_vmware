@@ -1,23 +1,24 @@
-#coding=utf-8
+# coding=utf-8
 from pyVmomi import vim
-import sys,atexit
+import sys, atexit
 import ssl
 from pyVim.connect import SmartConnect, Disconnect
-import re
 
-def set_vc_si(host,user,port,password,context):
+"""vcenter取消注册无效虚拟机"""
+
+def set_vc_si(host, user, port, password, context):
     try:
-        si1 = SmartConnect(host=host, user=user,pwd=password,
-                          port=port, sslContext=context)
+        si1 = SmartConnect(host=host, user=user, pwd=password,
+                           port=port, sslContext=context)
         if not si1:
-            print ("Can't connect to the host with given user and password")
+            print("Can't connect to the host with given user and password")
             sys.exit()
 
         atexit.register(Disconnect, si1)
 
 
     except Exception as e:
-        print ("catch the exception: ", str(e))
+        print("catch the exception: ", str(e))
     return si1
 
 
@@ -34,7 +35,6 @@ def get_vc_si():
         if hasattr(ssl, '_create_unverified_context'):
             context = ssl._create_unverified_context()
 
-
     si = set_vc_si(host, user, port, password, context)
     atexit.register(Disconnect, si)
     return si
@@ -42,27 +42,27 @@ def get_vc_si():
 
 def main():
     si = get_vc_si()
+
     content = si.RetrieveServiceContent()
     objView = content.viewManager.CreateContainerView(content.rootFolder,
                                                       [vim.ComputeResource],
                                                       True)
-    vmList = objView.view
-    objView.Destroy()
 
-    for i in vmList:
-        if i.name == "192.168.134.116":
-            objView2 = content.viewManager.CreateContainerView(i,
-                                                               [vim.VirtualMachine],
+    hostname = None
+    for hostname in objView.view:
+        if hostname.name == "192.168.134.107":
+            objView = content.viewManager.CreateContainerView(hostname,
+                                                              [vim.VirtualMachine],
+                                                              True)
+            vm = None
+            for vm in objView.view:
+                if vm.runtime.connectionState == "inaccessible":
+                    vm.UnregisterVM()
 
-                                                               True)
-            vmList2 = objView2.view
-            objView2.Destroy()
-            obj = None
-            for vm in vmList2:
-                print(vm.name)
-
+                if vm.runtime.connectionState == "orphaned":
+                    vm.UnregisterVM()
+            objView.Destroy()
 
 
 if __name__ == "__main__":
     main()
-    print("DOing all.....")

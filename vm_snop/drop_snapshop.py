@@ -1,8 +1,8 @@
-#coding=utf-8
-from pyVmomi import vim
 import sys,atexit
 import ssl
+from pyVmomi import vim
 from pyVim.connect import SmartConnect, Disconnect
+
 
 
 def set_vc_si(host,user,port,password,context):
@@ -21,10 +21,12 @@ def set_vc_si(host,user,port,password,context):
     return si1
 
 
+
+
 def get_vc_si():
-    host = "192.168.134.231"
-    user = "jfj"
-    password = "pass2017!@#$"
+    host = "192.168.134.107"
+    user = "root"
+    password = "pass1234!@#$"
     port = 443
     if host:
         context = ssl.create_default_context()
@@ -39,6 +41,27 @@ def get_vc_si():
     atexit.register(Disconnect, si)
     return si
 
+def Drop_snap(resourcePool):
+    try:
+        if resourcePool.name == "Hy_Os":
+            name = "jfjnew"
+            for vm in resourcePool.vm:
+                name = name + "1"
+                vm.snapshot.currentSnapshot.Remove(removeChildren=False)##remove all snap == vm.RemoveAllSnapshots()
+                #vm.RemoveAllSnapshots()
+    except Exception as e:
+        print("no have this name :", str(e))
+
+
+def wait_for_task(task):
+    task_do = False
+    while not task_do:
+        if task.info.state == "success":
+            return task.info.result
+        if task.info.state == "error":
+            print("There has an error :")
+            task_do = True
+
 
 
 
@@ -46,17 +69,13 @@ def main():
     si = get_vc_si()
     content = si.RetrieveServiceContent()
     objView = content.viewManager.CreateContainerView(content.rootFolder,
-                                                      [vim.Datastore],
+                                                      [vim.ResourcePool],
                                                       True)
     vmList = objView.view
     objView.Destroy()
-    obj = None
-    for data in vmList:
-        if data.name == "data227":
-            data.RefreshDatastoreStorageInfo
-
-
-
+    for i in vmList:
+        #print(i.name)
+        Drop_snap(i)
 
 
 if __name__ == "__main__":

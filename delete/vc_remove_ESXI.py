@@ -4,7 +4,6 @@ import sys,atexit
 import ssl
 from pyVim.connect import SmartConnect, Disconnect
 
-
 def set_vc_si(host,user,port,password,context):
     try:
         si1 = SmartConnect(host=host, user=user,pwd=password,
@@ -19,6 +18,8 @@ def set_vc_si(host,user,port,password,context):
     except Exception as e:
         print ("catch the exception: ", str(e))
     return si1
+
+
 
 
 def get_vc_si():
@@ -41,24 +42,20 @@ def get_vc_si():
 
 
 
-
 def main():
     si = get_vc_si()
     content = si.RetrieveServiceContent()
     objView = content.viewManager.CreateContainerView(content.rootFolder,
-                                                      [vim.Datastore],
+                                                      [vim.ComputeResource],
                                                       True)
     vmList = objView.view
     objView.Destroy()
-    obj = None
-    for data in vmList:
-        if data.name == "data227":
-            data.RefreshDatastoreStorageInfo
 
-
-
+    for esxi in vmList:
+        if esxi.name == "192.168.134.116":
+            esxi.Destroy()
 
 
 if __name__ == "__main__":
     main()
-    print("DOing all.....")
+

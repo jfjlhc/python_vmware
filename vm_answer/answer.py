@@ -1,24 +1,21 @@
 # coding=utf-8
-import atexit
-import sys
 import ssl
 import atexit
 import sys, time
-import textwrap
 from pyVim import connect
 from pyVmomi import vim
-import Resister_Vmfs_main as jfj
 from pyVim.connect import SmartConnect, Disconnect
 import os
 
-"""edit by jifujun"""
+"""edit by jfj 添加虚拟机到列表，应答虚拟机问题"""
 
-esxi_host = jfj.esxi_host
-esxi_user = jfj.esxi_user
-esxi_passwd = jfj.esxi_passwd
+esxi_host = "192.168.137.117"
+esxi_user = "root"
+esxi_passwd = "Jeeseen.com.run1225!@#$"
 
 
 def set_vc_si(host, user, port, password, context):
+    si1=None
     try:
         si1 = SmartConnect(host=host, user=user, pwd=password,
                            port=port, sslContext=context)
@@ -38,7 +35,7 @@ def get_vc_si():
     host = esxi_host
     user = esxi_user
     password = esxi_passwd
-    port = 443
+    port = 8081
     if host:
         context = ssl.create_default_context()
         context.check_hostname = False
@@ -100,6 +97,7 @@ def startVM(vm):
                 print(fault_msg.key)
                 print(fault_msg.message)
             sys.exit(-1)
+
 
 def _findpath(store):  ##match:*.vmx.* *.vmxf.* *.nvram.*
     s = "vmx"
@@ -165,6 +163,7 @@ if __name__ == "__main__":
     datacenter = instance.content.rootFolder.childEntity[0]
     datastores = datacenter.datastore
     pool = datacenter.hostFolder.childEntity[0].resourcePool
+
     serverList = None
 
 
@@ -174,16 +173,18 @@ if __name__ == "__main__":
                                                       True)
     vm = None
     for vm in objView.view:
-
-        if vm.runtime.connectionState == "inaccessible":
+         #print(vm.name)
+         #print(vm.runtime.connectionState)
+    #print()
+        if vm.runtime.connectionState == "inaccessible":#先取消注册无效的虚拟机
             vm.UnregisterVM()
 
 
 
     for vm in objView.view:
-        print(vm.runtime.connectionState)
+        #print(vm.runtime.connectionState)
 
-        if vm.runtime.connectionState == "orphaned":
+        if vm.runtime.connectionState == "orphaned":#先取消独立的虚拟机
             vm.UnregisterVM()
     objView.Destroy()
 
@@ -216,8 +217,10 @@ if __name__ == "__main__":
         array.append(vmobj)
     objView.Destroy()
 
+    # print(array)
+    # print()
     if len(array) > 5:
-
+        #print()
         for vm in array:
             if vm.runtime.question is not None:
                 question_id = vm.runtime.question.id
@@ -256,7 +259,7 @@ if __name__ == "__main__":
     for vm in objView.view:
         startVM(vm)
     objView.Destroy()
-    #os.system("python jfj_register_template.py")
+    os.system("python jfj_register_template.py")
     print("程序已结束！")
 
 

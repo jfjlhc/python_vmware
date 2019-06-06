@@ -22,9 +22,9 @@ def set_vc_si(host,user,port,password,context):
 
 
 def get_vc_si():
-    host = "192.168.134.231"
-    user = "jfj"
-    password = "pass2017!@#$"
+    host = "192.168.88.17"
+    user = "root"
+    password = "fvcdd@2015"
     port = 443
     if host:
         context = ssl.create_default_context()
@@ -39,26 +39,26 @@ def get_vc_si():
     atexit.register(Disconnect, si)
     return si
 
-
-
-
 def main():
     si = get_vc_si()
     content = si.RetrieveServiceContent()
     objView = content.viewManager.CreateContainerView(content.rootFolder,
-                                                      [vim.Datastore],
+                                                      [vim.ResourcePool],
                                                       True)
     vmList = objView.view
     objView.Destroy()
-    obj = None
-    for data in vmList:
-        if data.name == "data227":
-            data.RefreshDatastoreStorageInfo
 
+    for pool in vmList:
+        for pool in vmList:
+            if pool.name == "vmpots133_88_17_kh":
+                objView = content.viewManager.CreateContainerView(pool,
+                                                                  [vim.VirtualMachine],
 
-
-
-
+                                                                  True)
+                vmList = objView.view
+                objView.Destroy()
+                for vm in vmList:
+                    vm.PowerOff()
 if __name__ == "__main__":
     main()
     print("DOing all.....")

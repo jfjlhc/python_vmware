@@ -9,9 +9,9 @@ from pyVmomi import vim
 """write by jifujun"""
 
 
-esxi_host = "192.168.137.100"
+esxi_host = "192.168.137.144"
 esxi_user = "root"
-esxi_passwd = "pass1234!@#$"
+esxi_passwd = "Jeeseen.com.run1225!@#$"
 
 def set_vc_si(host,user,port,password,context):
     try:
@@ -66,7 +66,7 @@ if __name__ == "__main__":
                 print("现在开始挂载存储：")
                 hostobj.configManager.storageSystem.MountVmfsVolume(vmfsUuid=dp)
 
-        #print("请等待5S", time.sleep(5))
+        print("请等待5S", time.sleep(5))
         os.system("python esxi_conndata.py")
     except Exception as e:
         os.system("python esxi_conndata.py")
