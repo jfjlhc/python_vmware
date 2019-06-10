@@ -6,7 +6,7 @@ import sys,time
 from pyVim import connect
 from pyVim.connect import SmartConnect, Disconnect
 from pyVmomi import vim
-"""write by jifujun testabcx"""
+"""write by jifujun"""
 
 esxi_host = "192.168.137.144"
 esxi_user = "root"
