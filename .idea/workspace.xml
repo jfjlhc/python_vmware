@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f7daf51-c263-4805-8a41-79f659d9c7ef" name="Default" comment="10.31">
-      <change beforePath="$PROJECT_DIR$/register_vm/Resister_Vmfs_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/register_vm/Resister_Vmfs_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/on_off/on.py" beforeDir="false" afterPath="$PROJECT_DIR$/on_off/on.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_ros/bushu.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +23,7 @@
     <SUITE FILE_PATH="coverage/jfj_pycode$host_assign_copy.coverage" NAME="host_assign_copy Coverage Results" MODIFIED="1511950155138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host" />
     <SUITE FILE_PATH="coverage/jfj_pycode$Unicode.coverage" NAME="Unicode Coverage Results" MODIFIED="1509772889232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_code" />
     <SUITE FILE_PATH="coverage/jfj_pycode$ssh_connect.coverage" NAME="ssh_connect Coverage Results" MODIFIED="1510894620667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/linux_Code" />
+    <SUITE FILE_PATH="coverage/pymoon$temp_query.coverage" NAME="temp_query Coverage Results" MODIFIED="1561362453962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/host" />
     <SUITE FILE_PATH="coverage/pymoon$template_copy_template.coverage" NAME="template_copy_template Coverage Results" MODIFIED="1551927417052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/copy_vm" />
     <SUITE FILE_PATH="coverage/jfj_pycode$esxihost_reboot.coverage" NAME="esxihost_reboot Coverage Results" MODIFIED="1512021232010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host" />
     <SUITE FILE_PATH="coverage/jfj_pycode$create_snap.coverage" NAME="create_snap Coverage Results" MODIFIED="1522823143167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/vm_Snapshot" />
@@ -42,7 +45,7 @@
     <SUITE FILE_PATH="coverage/jfj_pycode$host_copy_vm.coverage" NAME="host_copy_vm Coverage Results" MODIFIED="1510156559546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host" />
     <SUITE FILE_PATH="coverage/jfj_pycode$template_to_hostname.coverage" NAME="template_to_hostname Coverage Results" MODIFIED="1509964543510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/host" />
     <SUITE FILE_PATH="coverage/jfj_pycode$jvm_rename.coverage" NAME="jvm_rename Coverage Results" MODIFIED="1509971329301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi5.5/rename" />
-    <SUITE FILE_PATH="coverage/pymoon$on.coverage" NAME="on Coverage Results" MODIFIED="1559541836452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/on_off" />
+    <SUITE FILE_PATH="coverage/pymoon$on.coverage" NAME="on Coverage Results" MODIFIED="1560998389611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/on_off" />
     <SUITE FILE_PATH="coverage/jfj_pycode$esxi_conndata.coverage" NAME="esxi_conndata Coverage Results" MODIFIED="1513591951803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi _work" />
     <SUITE FILE_PATH="coverage/jfj_pycode$oof.coverage" NAME="oof Coverage Results" MODIFIED="1513755762534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/esxi _work" />
     <SUITE FILE_PATH="coverage/pymoon$vm_hostvm_query.coverage" NAME="vm_hostvm_query Coverage Results" MODIFIED="1551926527896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/host" />
@@ -150,37 +153,38 @@
     <session id="461572179">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="22" />
+          <entry key="project.closed" value="24" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="29" />
-          <entry key="project.open.time.8" value="17" />
+          <entry key="project.open.time.8" value="18" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="53" />
+          <entry key="project.opened" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="364" />
+          <entry key="py" value="370" />
           <entry key="sh" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="364" />
+          <entry key="Python" value="370" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="15" />
-          <entry key="py" value="5389" />
+          <entry key="py" value="5450" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="15" />
-          <entry key="Python" value="5389" />
+          <entry key="Python" value="5450" />
         </counts>
       </usages-collector>
     </session>
@@ -190,56 +194,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/py_ros/bushu.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="67" selection-start-line="67" selection-end-line="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/on_off/off.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vm_answer/vm_ALL_unresister.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="713">
-              <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
-              <folding>
-                <element signature="e#14#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/on_off/on.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="819">
-              <caret line="43" column="41" lean-forward="true" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
-              <folding>
-                <element signature="e#15#38#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/register_vm/Resister_Vmfs_main.py">
+        <entry file="file://$PROJECT_DIR$/host/temp_query.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-              <folding>
-                <element signature="e#14#23#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="782">
+              <caret line="68" column="23" lean-forward="true" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -308,7 +267,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/esxi _work/off.py" />
         <option value="$PROJECT_DIR$/register_vm/jfjregister.py" />
         <option value="$PROJECT_DIR$/esxi _work/on.py" />
         <option value="$PROJECT_DIR$/answer_vm/answer.py" />
@@ -356,9 +314,10 @@
         <option value="$PROJECT_DIR$/on_off/pool_off.py" />
         <option value="$PROJECT_DIR$/vm_answer/vm_ALL_unresister.py" />
         <option value="$PROJECT_DIR$/on_off/off.py" />
-        <option value="$PROJECT_DIR$/on_off/on.py" />
         <option value="$PROJECT_DIR$/py_ros/pytwo.py" />
         <option value="$PROJECT_DIR$/register_vm/Resister_Vmfs_main.py" />
+        <option value="$PROJECT_DIR$/on_off/on.py" />
+        <option value="$PROJECT_DIR$/host/temp_query.py" />
       </list>
     </option>
   </component>
@@ -369,8 +328,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="178" />
-    <option name="y" value="53" />
+    <option name="x" value="349" />
+    <option name="y" value="61" />
     <option name="width" value="1678" />
     <option name="height" value="1010" />
   </component>
@@ -390,6 +349,21 @@
               <item name="pymoon" type="b2602c69:ProjectViewProjectNode" />
               <item name="pymoon" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="pymoon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pymoon" type="462c0819:PsiDirectoryNode" />
+              <item name="copy_vm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pymoon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pymoon" type="462c0819:PsiDirectoryNode" />
+              <item name="delete" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pymoon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pymoon" type="462c0819:PsiDirectoryNode" />
+              <item name="host" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -404,15 +378,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\backdesktop\桌面\pymoon\flask" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\backdesktop\桌面\pymoon\register_vm" />
       <recent name="G:\backdesktop\桌面\pymoon\copy_vm" />
       <recent name="G:\backdesktop\桌面\pymoon\on_off" />
       <recent name="G:\backdesktop\桌面\pymoon\host" />
       <recent name="G:\backdesktop\桌面\pymoon\delete" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\backdesktop\桌面\pymoon\flask" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -427,7 +401,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.on">
+  <component name="RunManager" selected="Python.temp_query">
     <configuration default="true" type="tests" factoryName="Nosetests">
       <module name="jfj_python_esxi" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -675,7 +649,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="vm_ALL_unresister" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="temp_query" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="jfj_pycode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -683,12 +657,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\python\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vm_answer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/host" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vm_answer/vm_ALL_unresister.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/host/temp_query.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -782,15 +756,15 @@
       <item itemvalue="Python.Resister_Vmfs_main" />
       <item itemvalue="Python.on" />
       <item itemvalue="Python.pytwo" />
-      <item itemvalue="Python.vm_ALL_unresister" />
+      <item itemvalue="Python.temp_query" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.temp_query" />
         <item itemvalue="Python.on" />
         <item itemvalue="Python.off" />
         <item itemvalue="Python.Resister_Vmfs_main" />
         <item itemvalue="Python.pytwo" />
-        <item itemvalue="Python.vm_ALL_unresister" />
       </list>
     </recent_temporary>
   </component>
@@ -860,22 +834,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="178" y="53" width="1678" height="1010" extended-state="0" />
+    <frame x="349" y="61" width="1678" height="1010" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49944136" visible="true" weight="0.23918417" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49944136" visible="true" weight="0.18232386" />
       <window_info id="Structure" order="1" weight="0.24958494" />
       <window_info id="Favorites" order="2" sideWeight="0.5005587" side_tool="true" weight="0.19171597" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49938196" weight="0.32951945" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5229211" visible="true" weight="0.27054796" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.5229211" visible="true" weight="0.27054796" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.47707888" side_tool="true" weight="0.2570499" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" weight="0.329718" />
       <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49946696" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.3286334" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.32762557" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4980631" weight="0.32961586" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
@@ -944,7 +918,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/esxi _work/create_snap.py" />
     <entry file="file://$PROJECT_DIR$/esxi _work/drop_snapshop.py" />
     <entry file="file://$PROJECT_DIR$/esxi _work/esxihost_reboot.py" />
     <entry file="file://$PROJECT_DIR$/esxi _work/esxihost_shutdown.py" />
@@ -1004,13 +977,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/host/vm_hostvm_query.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="61" column="30" lean-forward="true" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/copy_vm/from_template_copy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-904">
@@ -1022,13 +988,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="115" column="33" selection-start-line="115" selection-start-column="33" selection-end-line="115" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/host/vm_to_template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -1063,13 +1022,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="539">
           <caret line="92" selection-start-line="92" selection-end-line="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vlan/print.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1863">
-          <caret line="81" column="35" lean-forward="true" selection-start-line="81" selection-start-column="35" selection-end-line="81" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -1133,33 +1085,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/on_off/off.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vm_answer/vm_ALL_unresister.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
-          <folding>
-            <element signature="e#14#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/on_off/on.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="819">
-          <caret line="43" column="41" lean-forward="true" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
-          <folding>
-            <element signature="e#15#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/py_ros/pytwo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-92">
@@ -1167,20 +1092,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/py_ros/bushu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/register_vm/Resister_Vmfs_main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vm_answer/vm_ALL_unresister.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/on_off/off.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py_ros/bushu.py" />
+    <entry file="file://$PROJECT_DIR$/on_off/on.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
           <folding>
-            <element signature="e#14#23#0" expanded="true" />
+            <element signature="e#15#38#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vlan/print.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+          <folding>
+            <element signature="e#320#357#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/host/vm_hostvm_query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="46" column="25" selection-end-line="67" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/host/vm_to_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-736">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/host/temp_query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="68" column="23" lean-forward="true" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
         </state>
       </provider>
     </entry>
